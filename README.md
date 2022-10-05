@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaboAlba
-- 👀 I’m interested in ML and Full Stack Development
+- 👀 I’m interested in Scripting, ML and Web Development
 - 🌱 I’m currently learning Automation in Python
 - 💞️ I’m looking to collaborate on Small JS projects
 - 📫 How to reach me ... email -> gabriel.f.alba@gmail.com
