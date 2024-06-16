@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaboAlba
-- 👀 I’m interested in Scripting, ML and Web Development
-- 🌱 I’m currently learning Automation in Python
-- 💞️ I’m looking to collaborate on Small JS projects
+- 👀 I’m like to work in AI, NLP and Automating simple tasks
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Small Web projects
 - 📫 How to reach me ... email -> gabriel.f.alba@gmail.com
 
 <!---
