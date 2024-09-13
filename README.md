@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaboAlba
-- 👀 I’m like to work in AI, NLP and Automating simple tasks
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Small Web projects
+- 👀 I like to work in AI, NLP and Prompt Engineering
+- 🌱 I’m currently learning Frontend Web Development
+- 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me ... email -> gabriel.f.alba@gmail.com
 
 <!---
